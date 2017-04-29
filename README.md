@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work together demo. 
 
 ## Introduction
-This is example to show different parts of git repository and various commands using a web project
+This is example to show different parts of git repository and various commands using a web project. Adding a lone for rebasing example.
 
 ## Purpose
 As stated above, the main purpose is to provide simple examples for Git
