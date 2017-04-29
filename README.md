@@ -17,4 +17,5 @@ Please fork this repository and then issue pull requests for review.
 
 Sample website with plenty of files for demos
 
-## Copyright Section
+## Copyright Section. 
+All rights Reserved
