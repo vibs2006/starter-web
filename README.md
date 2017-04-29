@@ -1,6 +1,6 @@
 # Starter Web 
 
-This repository is for showing how Git and GitHub work together demo. 
+This repository is for showing how Git and GitHub work together demo. Doing an emergengy fix after saving a stash.
 
 ## Introduction
 This is example to show different parts of git repository and various commands using a web project. Adding a lone for rebasing example, then more changes from my feature branch too.
