@@ -5,7 +5,7 @@
 
    Jason Taylor - jason@git.training @awesonjt
 
-# THANKS
+# THANKS (Raising Conflict from local)
 
     All my students
 	Please leave a review if you like this course
