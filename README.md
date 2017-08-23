@@ -1,4 +1,4 @@
-# Starter Web (changed branch0
+# Starter Web (changed branch)
 
 This repository is for showing how Git and GitHub work together demo. Doing an emergengy fix after saving a stash.
 
